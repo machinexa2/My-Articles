@@ -10,12 +10,14 @@ https://blog.appsecco.com/practical-recon-techniques-for-bug-hunters-pen-testers
 https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce
 https://blog.nyangawa.me/jekyll/update/2018/12/12/CVE-2018-18649-Gitlab-RCE.html
 https://blog.ripstech.com/2018/wordpress-design-flaw-leads-to-woocommerce-rce/
+https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
 https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net
 https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/
 https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/
 https://blog.usejournal.com/little-known-features-of-javascript-901665291387?source=extreme_main_feed---------144-50----------63c6f1f93ee----------6525ca65_610b_4927_8155_2bac9dc1ba21--6
 https://blog.zsec.uk/rce-starwars/
 https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/
+https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/
 https://forum.hackthebox.eu/discussion/1243/privilege-escalation-resources
 https://gbhackers.com/web-application-security-tools-resources
 https://hawkinsecurity.com/2018/08/27/traversing-the-path-to-rce/
@@ -27,6 +29,8 @@ https://lsdsecurity.com/useful-resources/
 https://medium.com/@001SPARTaN/cobalt-strike-visualizations-e6a6e841e16b?source=placement_card_footer_grid---------2-60
 https://medium.com/@airman604/from-xxe-to-rce-with-php-expect-the-missing-link-a18c265ea4c7
 https://medium.com/@AkshaySharmaUS/open-redirects-security-done-right-e524a3185496?source=placement_card_footer_grid---------2-60
+https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846
+https://medium.com/@armaanpathan/chain-the-bugs-to-pwn-an-organisation-lfi-unrestricted-file-upload-remote-code-execution-93dfa78ecce
 https://medium.com/@aroraminali21/how-i-could-download-the-source-code-of-an-indian-e-commerce-website-30cb8310b6e4
 https://medium.com/@bondo.mike/vulnhub-kioptrix-level-5-88ab65146d48?source=placement_card_footer_grid---------1-60
 https://medium.com/bugbountywriteup/a-guide-to-open-source-intelligence-gathering-osint-ca831e13f29c
@@ -50,6 +54,7 @@ https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a08
 https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549
 https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1?source=tag_archive---------8-----------------------
 https://medium.com/@malcomvetter/safe-red-team-infrastructure-c5d6a0f13fac?source=placement_card_footer_grid---------1-60
+https://medium.com/@mikewaals/remote-code-execution-damn-vulnerable-web-application-dvwa-medium-level-security-ca283cda3e86
 https://medium.com/p/6fa573ac6668?source=user_profile
 https://medium.com/quick-code/security-testing-for-rest-api-with-w3af-2c43b452e457?source=post_recirc---------0------------------
 https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233?source=tag_archive---------2-----------------------
@@ -64,6 +69,9 @@ https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-inter
 https://medium.com/@vysec.private/finding-target-relevant-domain-fronts-7f4ad216c223?source=placement_card_footer_grid---------0-44
 https://medium.com/@yogendra_h1/sensitive-data-exposure-by-requesting-a-resource-with-a-different-content-type-27412a9d6e2f
 https://opensource.com/article/18/4/linux-filesystem-forensics
+https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-1
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-2
 https://pentester.land/cheatsheets/2019/04/15/recon-resources.html
 https://pentester.land/tutorials/.../source-code-disclosure-via-exposed-git-folder.html
 https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config/
